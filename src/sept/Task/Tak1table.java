@@ -4,6 +4,8 @@ public class Tak1table {
     public static void main(String[] args) {
         //Now we can print table of 2 with string formatting
         int num = 2;
+        System.out.println("Table of 2");
+
         System.out.printf(" %d * %d = %d",num,1,num*1);
         System.out.println();
         System.out.printf(" %d * %d = %d",num,2,num*2);
