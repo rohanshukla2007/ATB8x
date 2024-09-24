@@ -1,4 +1,4 @@
-package sept.ex_11092024;
+package sept.ex_11092024_DataTypes;
 
 public class Lab016 {
     public static void main(String[] args) {
