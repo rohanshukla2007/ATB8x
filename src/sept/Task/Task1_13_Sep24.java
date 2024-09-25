@@ -1,6 +1,6 @@
 package sept.Task;
 
-public class Tak1table {
+public class Task1_13_Sep24 {
     public static void main(String[] args) {
         //Now we can print table of 2 with string formatting
         int num = 2;

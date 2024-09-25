@@ -1,6 +1,6 @@
 package sept.Task;
 
-public class Task4 {
+public class Task4_16_Sep24 {
     //short s = 10;
     //
     //        char c = 'A'; //65

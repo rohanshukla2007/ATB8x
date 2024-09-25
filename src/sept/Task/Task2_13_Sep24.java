@@ -1,6 +1,6 @@
 package sept.Task;
 
-public class Task2calculator {
+public class Task2_13_Sep24 {
     public static void main(String[] args) {
         double a = 34;
         double b = 10;

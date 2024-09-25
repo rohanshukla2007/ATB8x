@@ -1,6 +1,6 @@
 package sept.Task;
 
-public class Task_Byte_Long {
+public class Task6_16_Sep24_Byte_Long {
     public static void main(String[] args) {
         //how much byte will be used ?
         byte b = 10;

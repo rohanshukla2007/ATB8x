@@ -1,6 +1,6 @@
 package sept.Task;
 
-public class Task3 {
+public class Task3_16_Sep24 {
     public static void main(String[] args) {
         //Another byte b = 10; byte c = 10;
         // What is the anwser if the perform b+c,
