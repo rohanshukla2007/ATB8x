@@ -6,5 +6,7 @@ public class Lab060_TernaryOperator1 {
         int Rohit=7;
         String result = Rohan>Rohit? "Rohan won":"Rohit won";
         System.out.println(result);
+        String str=10>20 ? "10" : "TWENTY";
+        System.out.println(str);
     }
 }
