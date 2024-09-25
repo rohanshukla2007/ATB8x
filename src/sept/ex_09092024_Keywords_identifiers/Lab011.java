@@ -1,4 +1,4 @@
-package sept.ex_09092024;
+package sept.ex_09092024_Keywords_identifiers;
 
 public class Lab011 {
     public static void main(String[] args) {
