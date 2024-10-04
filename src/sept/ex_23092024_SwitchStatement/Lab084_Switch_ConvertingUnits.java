@@ -1,6 +1,6 @@
 package sept.ex_23092024_SwitchStatement;
 
-public class Lab090_Switch_ConvertingUnits {
+public class Lab084_Switch_ConvertingUnits {
     public static void main(String[] args) {
         double value = 96.8;
         String unit = "m";

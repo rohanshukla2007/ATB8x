@@ -1,6 +1,6 @@
 package sept.ex_23092024_SwitchStatement;
 
-public class Lab089_Switch_Question {
+public class Lab083_Switch_Question {
     public static void main(String[] args) {
         char ch='A';
         switch(ch){
