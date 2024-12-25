@@ -13,9 +13,16 @@ public class Lab091_UserInput {
 
         String name = sc.nextLine();
         System.out.println(name);
+        System.out.println("Enter the String");
+        String name1 = sc.nextLine();
+        System.out.println(name1);
+
+//        System.out.println("Enter the character");
+//        char [] c = sc.next().toCharArray();
+//        System.out.println(c);
+
 
     }
-    // How to take a use input
-    //
+   
 
 }
